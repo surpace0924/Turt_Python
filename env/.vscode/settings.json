@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/your/path/to/venv/bin/python",
+    "python.autoComplete.extraPaths": [
+        "/Your/path/to/venv/lib/"
+    ]
+}
